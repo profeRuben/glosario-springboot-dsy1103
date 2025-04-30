@@ -44,8 +44,9 @@ Eliminar (Delete): Eliminar la cuenta de un usuario de la base de datos.
 (por completar)
 
 ## 12. Comunicación entre microservicios
-(por completar)
 
+Definición: Es el proceso mediante el cual los microservicios intercambian datos entre sí, comúnmente usando APIs REST o sistemas de mensajería como RabbitMQ o Kafka.
+Ejemplo: Un microservicio de pedidos puede solicitar información a un microservicio de usuarios a través de una petición HTTP.
 ## 13. Configuración del proyecto
 (por completar)
 
@@ -62,8 +63,8 @@ Ejemplo: Un archivo .java que contiene la clase ProductoController escrita en Ja
 (por completar)
 
 ## 18. Pruebas
-(por completar)
-
+Definición: Son procedimientos realizados para asegurar que el software funciona como se espera. Pueden ser manuales o automáticas.
+Ejemplo: Probar que el endpoint /productos devuelve la lista correcta desde la base de datos.
 ## 19. Pruebas unitarias
 (por completar)
 
