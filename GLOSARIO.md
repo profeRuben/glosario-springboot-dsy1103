@@ -65,7 +65,35 @@ Eliminar (Delete): Eliminar la cuenta de un usuario de la base de datos.
 (por completar)
 
 ## 15. Código fuente
-(por completar)
+
+El código fuente es el conjunto de instrucciones escritas por un programador utilizando un lenguaje de programación (como Java, Python, C++, JavaScript, etc.). Estas instrucciones indican paso a paso lo que debe hacer un programa o una aplicación.
+
+Es el núcleo lógico de cualquier software y representa el primer paso en la creación de un programa informático.
+
+¿Cómo se ve?
+Un archivo de código fuente puede tener una extensión como .java, .py, .cpp, .js, etc., dependiendo del lenguaje utilizado. Por ejemplo:
+
+Ejemplo en Python
+print("Hola, mundo")
+
+
+// Ejemplo en Java
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("Hola, mundo");
+    }
+}
+
+El código fuente está diseñado para ser leído y entendido por humanos, especialmente por otros programadores. Por eso se escribe con sintaxis estructurada, nombres descriptivos y frecuentemente comentarios que explican qué hace cada parte.
+
+¿Por qué es importante?
+Es lo que permite modificar o mantener un software.
+
+Garantiza que el programa haga lo que se espera.
+
+Se puede compartir, versionar y colaborar en equipo usando sistemas como GitHub.
+
+A veces es propietario (oculto al usuario final) y otras veces es código abierto (open source), lo que permite que cualquiera lo vea y lo mejore.
 
 ## 16. Repositorio
 (por completar)
