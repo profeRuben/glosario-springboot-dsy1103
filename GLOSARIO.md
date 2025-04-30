@@ -68,8 +68,9 @@ Eliminar (Delete): Eliminar la cuenta de un usuario de la base de datos.
 (por completar)
 
 ## 20. Pruebas de integración
-(por completar)
 
+Definición: Son pruebas que validan que varios componentes del sistema funcionen correctamente cuando interactúan entre sí.
+Ejemplo: Verificar que al crear un usuario desde un controlador, también se guarde correctamente en la base de datos mediante el servicio y repositorio.
 ## 21. Documentación técnica
 (por completar)
 
