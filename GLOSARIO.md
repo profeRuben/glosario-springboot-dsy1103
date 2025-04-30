@@ -1,40 +1,38 @@
 # Glosario técnico – DSY1103
 
 ## 1. Spring Boot
-(por completar)
+Spring Boot es un marco de desarrollo de aplicaciones Java que facilita la creación de aplicaciones empresariales basadas en Spring. Su principal objetivo es simplificar la configuración y el despliegue de aplicaciones, proporcionando un conjunto de herramientas y convenciones que permiten a los desarrolladores crear aplicaciones listas para producción de forma rápida y eficiente, sin necesidad de realizar configuraciones complicadas.
 
 ## 2. Microservicios
-(por completar)
+Microservicios es un estilo de arquitectura de software que estructura una aplicación como un conjunto de servicios pequeños, independientes y autónomos. Cada servicio se encarga de una funcionalidad específica de la aplicación y puede ser desarrollado, desplegado y escalado de manera independiente.
 
 ## 3. Maven
-(por completar)
+Maven es una herramienta de automatización de construcción (build automation) y gestión de dependencias para proyectos Java. Su propósito principal es simplificar el proceso de construcción, compilación, pruebas y despliegue de aplicaciones. Maven permite a los desarrolladores gestionar de manera eficiente las dependencias externas (bibliotecas o frameworks) y organizar el ciclo de vida de un proyecto.
 
 ## 4. pom.xml
-(por completar)
+El archivo pom.xml (Project Object Model) es el archivo de configuración central de un proyecto que utiliza Maven. Este archivo define todos los aspectos importantes del proyecto, como sus dependencias, plugins, configuración de construcción, y otros detalles necesarios para compilar, probar, empaquetar y desplegar la aplicación.
 
 ## 5. API RESTful
-(por completar)
+Una API RESTful es un tipo de interfaz de programación de aplicaciones (API) que sigue los principios de la arquitectura REST (Representational State Transfer). REST es un conjunto de restricciones arquitectónicas para la creación de servicios web que se basan en el uso de HTTP y en la manipulación de recursos mediante solicitudes.
 
 ## 6. Git
-(por completar)
+Git es un sistema de control de versiones distribuido de código abierto, diseñado para gestionar y hacer seguimiento de los cambios en los archivos de un proyecto de manera eficiente. Es ampliamente utilizado en el desarrollo de software para llevar un registro de los cambios en el código fuente, colaborar con otros desarrolladores y gestionar el historial de versiones de un proyecto a lo largo del tiempo.
 
 ## 7. GitHub
-(por completar)
+GitHub es una plataforma web de desarrollo colaborativo que permite almacenar, gestionar y compartir proyectos de código fuente utilizando Git, un sistema de control de versiones distribuido. GitHub facilita la colaboración entre desarrolladores, proporcionando un espacio donde pueden trabajar juntos en proyectos, compartir código, realizar seguimiento de cambios y gestionar versiones de manera eficiente.
 
 ## 8. Control de versiones
-(por completar)
+Control de versiones es un sistema que permite gestionar los cambios realizados en los archivos de un proyecto a lo largo del tiempo, facilitando el seguimiento, la restauración de versiones anteriores y la colaboración en el desarrollo de software u otros tipos de proyectos. Este sistema guarda un registro detallado de todas las modificaciones, lo que permite a los desarrolladores o equipos de trabajo manejar y administrar la evolución de sus proyectos de manera ordenada y segura.
 
 ## 9. Base de datos
-(por completar)
+Una base de datos es un sistema organizado para almacenar, gestionar y recuperar grandes cantidades de información de manera eficiente. Las bases de datos permiten a los usuarios y aplicaciones almacenar, modificar y consultar datos de forma estructurada, facilitando la organización y el acceso rápido a la información.
 
 ## 10. CRUD
-(por completar)
+CRUD es un acrónimo que describe las operaciones básicas que se pueden realizar sobre los datos en una base de datos o en cualquier sistema de almacenamiento de información. Estas operaciones son fundamentales en el desarrollo de aplicaciones, especialmente en aplicaciones que interactúan con bases de datos. CRUD está compuesto por las siguientes cuatro operaciones:
 
 ## 11. Postman
-(por completar)
-
+Postman es una herramienta de desarrollo de software utilizada principalmente para probar, desarrollar y documentar APIs (Interfaz de Programación de Aplicaciones). Es ampliamente usada por desarrolladores y equipos de QA (aseguramiento de calidad) para enviar solicitudes HTTP a un servidor y recibir respuestas, lo que permite verificar el comportamiento y la funcionalidad de las APIs.
 ## 12. Comunicación entre microservicios
-(por completar)
 
 ## 13. Configuración del proyecto
 (por completar)
@@ -152,4 +150,5 @@
 
 ## 51. Estructura de capas (Controller – Service – Repository)
 (por completar)
+
 
