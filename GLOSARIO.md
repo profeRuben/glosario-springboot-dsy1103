@@ -53,8 +53,8 @@ Eliminar (Delete): Eliminar la cuenta de un usuario de la base de datos.
 (por completar)
 
 ## 15. Código fuente
-(por completar)
-
+Definición: Es el conjunto de instrucciones escritas por el programador en un lenguaje de programación que forman una aplicación o sistema.
+Ejemplo: Un archivo .java que contiene la clase ProductoController escrita en Java.
 ## 16. Repositorio
 (por completar)
 
