@@ -28,7 +28,17 @@
 (por completar)
 
 ## 10. CRUD
-(por completar)
+DEFINICION: CRUD es un acrónimo que se refiere a las operaciones básicas que se pueden realizar sobre una base de datos o sistema de almacenamiento de información. Estas operaciones son: Crear (Create), Leer (Read), Actualizar (Update) y Eliminar (Delete). CRUD describe las cuatro funciones fundamentales para gestionar datos en una base de datos o aplicación.
+
+EJEMPLO:  una aplicación de gestión de usuarios. En esta aplicación, las operaciones CRUD se aplicarían de la siguiente manera:
+
+Crear (Create): Registrar un nuevo usuario con su nombre, correo electrónico y contraseña.
+
+Leer (Read): Consultar la información de un usuario, como su nombre o correo electrónico, a partir de su identificador único.
+
+Actualizar (Update): Modificar los detalles de un usuario, por ejemplo, cambiar su dirección de correo electrónico.
+
+Eliminar (Delete): Eliminar la cuenta de un usuario de la base de datos.
 
 ## 11. Postman
 (por completar)
