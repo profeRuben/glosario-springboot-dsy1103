@@ -1,7 +1,7 @@
 # Glosario técnico – DSY1103
 
 ## 1. Spring Boot
-(por completar)
+Es un framework que facilita la creación de aplicaciones web en Java. Hace que todo sea más rápido y sencillo al configurar automáticamente muchas cosas que normalmente tendrías que hacer tú mismo. Con Spring Boot, puedes crear aplicaciones listas para ejecutarse con poco código y configuración. Puedes hacer un hola Mundo fasilmente. 
 
 ## 2. Microservicios
 (por completar)
