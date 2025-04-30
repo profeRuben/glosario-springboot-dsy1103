@@ -78,7 +78,7 @@ Es una anotación compuesta que se utiliza para marcar la clase principal de una
 (por completar)
 
 ## 26. @Autowired
-(por completar)
+Es una anotación utilizada para inyectar dependencias de manera automática en Spring. Permite a Spring gestionar la creación y el ciclo de vida de los objetos que necesita un componente, reduciendo la necesidad de configuraciones manuales o explícitas. Se puede aplicar en campos, métodos o constructores.
 
 ## 27. application.properties
 (por completar)
