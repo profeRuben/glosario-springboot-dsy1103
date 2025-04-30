@@ -164,7 +164,12 @@ Fuente: https://www.json.org/json-es.html
 (por completar)
 
 ## 38. IDE (Entorno de desarrollo)
-(por completar)
+Un IDE (Integrated Development Environment) es una aplicación que proporciona herramientas esenciales para desarrollar software de forma más eficiente. Reúne en un solo entorno:
+Editor de código (para escribir el programa)
+Depurador (para encontrar y corregir errores)
+Compilador o intérprete (para ejecutar el código)
+Autocompletado y resaltado de sintaxis (para facilitar la escritura)
+Gestión de archivos y proyectos
 
 ## 39. Terminal
 (por completar)
