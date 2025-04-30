@@ -6,7 +6,17 @@ Es un framework que facilita la creación de aplicaciones web en Java. Hace que 
 
 
 ## 2. Microservicios
-(por completar)
+Microservicios es una arquitectura de diseño de software en la que una aplicación se divide en pequeños servicios independientes que son autónomos y que se comunican entre sí a través de interfaces bien definidas, usualmente utilizando APIs (interfaz de programación de aplicaciones). Cada microservicio es responsable de una funcionalidad específica de la aplicación y puede ser desarrollado, desplegado y escalado de manera independiente, lo que facilita la gestión y el mantenimiento de aplicaciones grandes y complejas.
+
+una tienda en línea. En lugar de tener una única aplicación monolítica que maneje todo (desde los usuarios hasta los pagos), la tienda se divide en varios microservicios:
+
+Microservicio de usuarios: Gestiona el registro, inicio de sesión y administración de cuentas de usuario.
+
+Microservicio de productos: Se encarga de mostrar los productos, detalles y gestionar el inventario.
+
+Microservicio de pagos: Gestiona las transacciones y el procesamiento de pagos.
+
+Microservicio de recomendaciones: Sugerencias personalizadas de productos basadas en el historial de compras.
 
 ## 3. Maven
 (por completar)
