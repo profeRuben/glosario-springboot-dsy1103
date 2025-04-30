@@ -4,7 +4,7 @@
 (por completar)
 
 ## 2. Microservicios
-Es una arquitectura de software con la caracteristica de separar en diferentes modulos los servicios del programa
+(por completar)
 
 ## 3. Maven
 (por completar)
@@ -106,7 +106,7 @@ Es una arquitectura de software con la caracteristica de separar en diferentes m
 (por completar)
 
 ## 36. Endpoint
-(por completar)
+probando 
 
 ## 37. Puerto (server.port)
 (por completar)
