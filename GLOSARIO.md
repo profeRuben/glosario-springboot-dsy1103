@@ -113,8 +113,10 @@ Eliminar (Delete): Eliminar la cuenta de un usuario de la base de datos.
 (por completar)
 
 ## 35. JSON
-(por completar)
+Acronimo de "JavaScript Object Notation"(Notacion de objeto de JavaScript) es un formato de intercambio de datos, con su escritura y lectura siendo simple de comprender para una persona y facil de interpretar y generar para una maquina. Se basa en un subconjunto del lenguaje JavaScript, pero es independiente del lenguaje y utiliza convenciones que son familiares con otros lenguajes, como la familia de lenguajes C, Java, Python, entre otros. 
+Su formato de archivo principal es .json.
 
+Fuente: https://www.json.org/json-es.html
 ## 36. Endpoint
 (por completar)
 
