@@ -28,7 +28,17 @@ Es un framework que facilita la creación de aplicaciones web en Java. Hace que 
 Una base de datos es una colección organizada de información, generalmente almacenada electrónicamente, que permite la gestión eficiente de datos. Sirve para almacenar, recuperar y manipular datos relacionados, facilitando tareas como análisis, búsqueda y actualización de información. Por ejemplo Oracle.
 
 ## 10. CRUD
-(por completar)
+DEFINICION: CRUD es un acrónimo que se refiere a las operaciones básicas que se pueden realizar sobre una base de datos o sistema de almacenamiento de información. Estas operaciones son: Crear (Create), Leer (Read), Actualizar (Update) y Eliminar (Delete). CRUD describe las cuatro funciones fundamentales para gestionar datos en una base de datos o aplicación.
+
+EJEMPLO:  una aplicación de gestión de usuarios. En esta aplicación, las operaciones CRUD se aplicarían de la siguiente manera:
+
+Crear (Create): Registrar un nuevo usuario con su nombre, correo electrónico y contraseña.
+
+Leer (Read): Consultar la información de un usuario, como su nombre o correo electrónico, a partir de su identificador único.
+
+Actualizar (Update): Modificar los detalles de un usuario, por ejemplo, cambiar su dirección de correo electrónico.
+
+Eliminar (Delete): Eliminar la cuenta de un usuario de la base de datos.
 
 ## 11. Postman
 (por completar)
@@ -103,8 +113,10 @@ Una base de datos es una colección organizada de información, generalmente alm
 (por completar)
 
 ## 35. JSON
-(por completar)
+Acronimo de "JavaScript Object Notation"(Notacion de objeto de JavaScript) es un formato de intercambio de datos, con su escritura y lectura siendo simple de comprender para una persona y facil de interpretar y generar para una maquina. Se basa en un subconjunto del lenguaje JavaScript, pero es independiente del lenguaje y utiliza convenciones que son familiares con otros lenguajes, como la familia de lenguajes C, Java, Python, entre otros. 
+Su formato de archivo principal es .json.
 
+Fuente: https://www.json.org/json-es.html
 ## 36. Endpoint
 (por completar)
 
