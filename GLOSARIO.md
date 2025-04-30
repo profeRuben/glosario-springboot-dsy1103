@@ -3,6 +3,8 @@
 ## 1. Spring Boot
 (por completar)
 
+
+
 ## 2. Microservicios
 (por completar)
 
@@ -64,7 +66,7 @@
 (por completar)
 
 ## 22. @SpringBootApplication
-(por completar)
+Es una anotación compuesta que se utiliza para marcar la clase principal de una aplicación Spring Boot. Esta anotación incluye varias otras anotaciones de configuración, como @Configuration, @EnableAutoConfiguration, y @ComponentScan. Permite que Spring Boot configure automáticamente la aplicación y ejecute el código sin necesidad de mucha configuración manual.
 
 ## 23. @RestController
 (por completar)
