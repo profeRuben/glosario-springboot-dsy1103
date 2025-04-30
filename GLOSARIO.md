@@ -25,7 +25,7 @@
 (por completar)
 
 ## 9. Base de datos
-Una base de datos es una colección organizada de información, generalmente almacenada electrónicamente, que permite la gestión eficiente de datos. Sirve para almacenar, recuperar y manipular datos relacionados, facilitando tareas como análisis, búsqueda y actualización de información. 
+Una base de datos es una colección organizada de información, generalmente almacenada electrónicamente, que permite la gestión eficiente de datos. Sirve para almacenar, recuperar y manipular datos relacionados, facilitando tareas como análisis, búsqueda y actualización de información. Por ejemplo Oracle.
 
 ## 10. CRUD
 (por completar)
