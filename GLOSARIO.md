@@ -3,6 +3,8 @@
 ## 1. Spring Boot
 Es un framework que facilita la creación de aplicaciones web en Java. Hace que todo sea más rápido y sencillo al configurar automáticamente muchas cosas que normalmente tendrías que hacer tú mismo. Con Spring Boot, puedes crear aplicaciones listas para ejecutarse con poco código y configuración. Puedes hacer un hola Mundo fasilmente. 
 
+
+
 ## 2. Microservicios
 (por completar)
 
@@ -74,7 +76,7 @@ Eliminar (Delete): Eliminar la cuenta de un usuario de la base de datos.
 (por completar)
 
 ## 22. @SpringBootApplication
-(por completar)
+Es una anotación compuesta que se utiliza para marcar la clase principal de una aplicación Spring Boot. Esta anotación incluye varias otras anotaciones de configuración, como @Configuration, @EnableAutoConfiguration, y @ComponentScan. Permite que Spring Boot configure automáticamente la aplicación y ejecute el código sin necesidad de mucha configuración manual.
 
 ## 23. @RestController
 (por completar)
@@ -86,7 +88,7 @@ Eliminar (Delete): Eliminar la cuenta de un usuario de la base de datos.
 (por completar)
 
 ## 26. @Autowired
-(por completar)
+Es una anotación utilizada para inyectar dependencias de manera automática en Spring. Permite a Spring gestionar la creación y el ciclo de vida de los objetos que necesita un componente, reduciendo la necesidad de configuraciones manuales o explícitas. Se puede aplicar en campos, métodos o constructores.
 
 ## 27. application.properties
 (por completar)
