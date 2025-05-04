@@ -158,7 +158,7 @@ Su formato de archivo principal es .json.
 
 Fuente: https://www.json.org/json-es.html
 ## 36. Endpoint
-(por completar)
+probando 
 
 ## 37. Puerto (server.port)
 (por completar)
