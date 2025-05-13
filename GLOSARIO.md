@@ -28,7 +28,7 @@ Microservicio de recomendaciones: Sugerencias personalizadas de productos basada
 (por completar)
 
 ## 6. Git
-(holaaaaaa)
+(d)
 
 ## 7. GitHub
 (por completar)
